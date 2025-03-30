@@ -5,8 +5,8 @@
     .minimum_zig_version = "0.14.0",
     .dependencies = .{
         .AFLplusplus = .{
-            .url = "git+https://github.com/allyourcodebase/AFLplusplus#bf7d9cc91a3897c3ed9a65b04141c87dded1bfe7",
-            .hash = "AFLplusplus-4.21.0-aA1y4dFrAAB5IR-iHNHVO3lwlK3Blq2Xx-9I3vsxOKMF",
+            .url = "git+https://github.com/nihklas/AFLplusplus#1391beb718f6ce0e3bbd04c4ffa4aabec5ecdc40",
+            .hash = "AFLplusplus-4.21.0-aA1y4RVsAADuYhJcEmc5mojt6Fp0Xyibhk7F9h-02IbC",
             .lazy = true,
         },
     },
